@@ -1,4 +1,4 @@
-# ESP32-S3-Mini Personal Assistant
+# ESP32 AI Personal Assistant
 
 A compact, powerful, and intuitive personal assistant powered by Google's Speech-to-Text and Text-to-Speech APIs, and OpenAI's ChatGPT. Speak to it, and it responds!
 
