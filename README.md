@@ -33,6 +33,9 @@ This project leverages a ESP32-S3-Mini microcontroller equipped with a microphon
 * The response from ChatGPT will be converted back into speech using Google's Text-to-Speech API.
 * Finally, the synthesized speech will be played back to you through the speaker, answering your query!
 
+## Work in progress
+The C structure, code, and stability of this product have not been optimized yet since this is a work in progress. Stay tuned for future updates.
+
 ## Note
 Remember to ensure your device has stable access to the internet, as the APIs used in this project require online communication. Also, be aware of any potential costs associated with the usage of Google Cloud and OpenAI APIs.
 
